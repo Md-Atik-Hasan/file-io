@@ -1,0 +1,1 @@
+[{"firstname":"Atik","lastname":"Hasan","gender":"male","date of birth":"2000-05-09","religion":"Islam","present address":"Dhaka","permanent address":"Tangail","telephone":"01763350564","email":"atikh2767@gmail.com","weblink":"https:\/\/www.facebook.com\/profile.php?id=100009192435835","username":"Atik","password":"456"}]
